@@ -26,3 +26,9 @@ echo "Stil on the same branch )))"
 
 cd /
 
+
+
+
+echo "devlp"
+
+
