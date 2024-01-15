@@ -20,3 +20,9 @@ echo "Develop branch"
 ls -la
 
 
+
+
+echo "Stil on the same branch )))"
+
+cd /
+
